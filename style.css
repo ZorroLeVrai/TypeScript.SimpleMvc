@@ -1,0 +1,17 @@
+.side-10rem {
+  width: 10rem;
+  height: 10rem;
+}
+
+.bgcolor-on {
+  background-color: white;
+}
+
+.bgcolor-off {
+  background-color: black;
+}
+
+.border {
+  border-radius: 1rem;
+  border: 0.2rem solid black;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "simplemvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w -p ./tsconfig.json",
+    "start": "nodemon ./output/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
